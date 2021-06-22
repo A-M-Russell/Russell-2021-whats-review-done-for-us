@@ -55,3 +55,5 @@ University of Edinburgh
 United Kingdom  
 [orcid id 0000-0001-9187-9839]  
 
+DOI for this repository  
+[![DOI](https://zenodo.org/badge/379097532.svg)](https://zenodo.org/badge/latestdoi/379097532)
