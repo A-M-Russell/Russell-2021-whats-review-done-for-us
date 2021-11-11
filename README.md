@@ -33,7 +33,7 @@ This data is shared in the interests of open science, please contact authors wit
 
 Authors
 -----
-Mx Allanna Russell (1)  
+Mx Ash A. M. Russell (1)  
 A/Professor Brad A. Sutherland (1)  
 Dr Lila Landowski (1)  
 Professor Malcolm Macleod (2)  
